@@ -8,7 +8,7 @@ body{
 }
 
 div{
-    width: 80%;
+    width: 90%;
     transition: all 0.3s;
     height: 500px;
     margin-top: 55px;
@@ -19,12 +19,23 @@ div{
     padding-top: 55px;
     font-size: 20px;
     font-variant: small-caps;
-    
+    text-decoration: none;  
+}
+div a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
 }
 div:hover{
     box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
     cursor: pointer;
-    width: 81%;
+    width: 91%;
     color: white;
     font-size: 21px;
+}
+.project-exam-screenshot{
+    height: 50%;
+    display: none;
 }
