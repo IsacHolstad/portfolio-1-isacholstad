@@ -3,21 +3,27 @@
     padding: 0 auto;
 }
 body{
+    background-color: black;
     
 }
 
 div{
     width: 80%;
-    transition: all 0.5s;
+    transition: all 0.3s;
     height: 500px;
     margin-top: 55px;
     margin-bottom: 50px;
     border-radius: 10px;
-    background-color: rgb(23, 21, 21);
+    background-color:teal;
+    text-align: center;
+    padding-top: 55px;
+    font-size: 20px;
+    font-variant: small-caps;
     
 }
 div:hover{
     box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
     cursor: pointer;
     width: 81%;
+    color: white;
 }
