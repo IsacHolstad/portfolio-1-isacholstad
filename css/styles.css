@@ -10,13 +10,13 @@ body{
 div{
     width: 90%;
     transition: all 0.3s;
-    height: 500px;
+    height: 450px;
     margin-top: 80px;
     margin-bottom: 80px;
     border-radius: 10px;
     background-image: linear-gradient(#191654, #43c5ac);
     text-align: center;
-    padding-top: 55px;
+    padding-top: 35px;
     font-size: 35px;
     font-variant: small-caps;
     text-decoration: none; 
