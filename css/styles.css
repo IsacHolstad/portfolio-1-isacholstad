@@ -3,7 +3,8 @@
     padding: 0 auto;
 }
 body{
-    background-color: black;
+    background-color: #FBFAF5;
+    
     
 }
 
@@ -19,7 +20,8 @@ div{
     padding-top: 55px;
     font-size: 20px;
     font-variant: small-caps;
-    text-decoration: none;  
+    text-decoration: none; 
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 div a{
     text-decoration: none;
@@ -27,15 +29,23 @@ div a{
     padding: 15px;
     display: flex;
     flex-direction: column;
+    
+    
 }
+div a:hover{
+    text-decoration: underline;
+   
+    
+}
+
 div:hover{
     box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
     cursor: pointer;
-    width: 91%;
     color: white;
-    font-size: 21px;
 }
 .project-exam-screenshot{
-    height: 50%;
-    display: none;
+    height: 60%;
+    width: 50%;
+    border-radius: 5px;
+    
 }
