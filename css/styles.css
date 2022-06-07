@@ -3,7 +3,7 @@
     padding: 0 auto;
 }
 body{
-    background-image: url("/img/montain.jpg");
+    background-color: #ffffff;
     
 }
 
@@ -11,16 +11,16 @@ div{
     width: 90%;
     transition: all 0.3s;
     height: 500px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     border-radius: 10px;
-    backdrop-filter: blur(25px);
+    background-image: linear-gradient(#191654, #43c5ac);
     text-align: center;
     padding-top: 55px;
-    font-size: 30px;
+    font-size: 35px;
     font-variant: small-caps;
     text-decoration: none; 
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
 div a{
     text-decoration: none;
@@ -28,6 +28,7 @@ div a{
     padding: 15px;
     display: flex;
     flex-direction: column;
+    
     
     
 }
