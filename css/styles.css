@@ -3,6 +3,29 @@
     padding: 0 auto;
 }
 body{
-    background-color: black;
-    color: white;
+    
+}
+.container-one{
+    width: 80%;
+    height: 500px;
+    margin-top: 55px;
+    border-radius: 10px;
+    background-color: rgb(23, 21, 21);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.container-two{
+    width: 80%;
+    height: 500px;
+    margin-top: 55px;
+    border-radius: 10px;
+    background-color: rgb(23, 21, 21);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.container-three{
+    width: 80%;
+    height: 500px;
+    margin-top: 55px;
+    border-radius: 10px;
+    background-color: rgb(23, 21, 21);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
