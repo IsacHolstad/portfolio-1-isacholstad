@@ -26,7 +26,7 @@ h1{
 p{
     color: white;
     text-align: center;
-    width: 50%;
+    width: 70%;
     margin-top: 5px;
 }
 
@@ -70,7 +70,7 @@ div a:hover{
     
 }
 
-.project-exam-text{
+div p{
     font-size: 18px;
     font
 }
@@ -79,16 +79,12 @@ div a:hover{
     height: 100px;
     position: absolute;
     top: 2300px;
-    text-align: center;
     display: flex;
-    background-color: black;
+    background-image: linear-gradient(#302b63,#0f0c29);
 }
-footer a{
-    color: black;
-    font-size: 18px;
-    text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    margin-top: 15px;
-    color: white;
+
+footer img{
+    width: 40px;
+    padding-top: 20px;
 }
+
