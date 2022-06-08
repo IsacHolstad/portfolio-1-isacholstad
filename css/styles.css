@@ -4,14 +4,14 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: #FBFAF5 ;
+    background-color: #D7FBE8 ;
     
 }
 section{
     position: absolute;
     width: 100%;
     padding-bottom: 25px;
-    background-image: linear-gradient(#0f0c29,#302b63);
+    background-color: #1fab89;
 }
 h1{
     color: white;
@@ -36,7 +36,7 @@ div{
     height: 500px;
     position: relative;
     top: 200px;
-    background-image: linear-gradient(#302b63,#0f0c29);
+    background-color: #62d2a2;
     margin-bottom: 80px;
     border-radius: 10px;
     text-align: center;
@@ -74,13 +74,14 @@ div p{
     font-size: 18px;
     font
 }
-.footer{
+.footer {
     width: 100%;
     height: 100px;
     position: absolute;
     top: 2300px;
+    background-color:#1fab89;
     display: flex;
-    background-image: linear-gradient(#302b63,#0f0c29);
+
 }
 
 footer img{
