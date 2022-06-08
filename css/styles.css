@@ -6,10 +6,18 @@ body{
     background-color: black ;
     
 }
-.navigation{
-    width: 100;
-    height: 45px;
-    background-color: #A9CEF4;
+h1{
+    color: white;
+    font-size: 30px;
+    font-variant: small-caps;
+    text-align: center;
+    margin-top: 25px;
+}
+p{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-top: 5px;
 }
 
 div{
