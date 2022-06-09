@@ -70,6 +70,9 @@ div a:hover{
     border-radius: 2px;
     
 }
+.semester-project-screenshot{
+    height: 50%;
+}
 
 div p{
     font-size: 18px;
