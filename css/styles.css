@@ -68,6 +68,10 @@ div img{
     height: 40%;
     border-radius: 2px;
 }
+div img:hover{
+    width: 51%;
+    height: 41%;
+}
 
 
 div p{
