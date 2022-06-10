@@ -63,18 +63,13 @@ div a:hover{
    
     
 }
+div img{
+    width: 50%;
+    height: 40%;
+    border-radius: 2px;
+}
 
-.project-exam-screenshot{
-    height: 50%;
-    width: 40%;
-    border-radius: 2px;
-    
-}
-.semester-project-screenshot{
-    height: 50%;
-    width: 40%;
-    border-radius: 2px;
-}
+
 
 div p{
     font-size: 18px;
