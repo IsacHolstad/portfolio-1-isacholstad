@@ -68,11 +68,6 @@ div img{
     height: 40%;
     border-radius: 2px;
 }
-div img:hover{
-    width: 51%;
-    height: 41%;
-}
-
 
 div p{
     font-size: 18px;
@@ -107,16 +102,14 @@ footer img{
         font-size: 20px;
 
     }
-    div img{
-        
-    }
+   
     div p{
         width: 85%;
         font-size: 14px;
     }
     
     footer img{
-        width: 35px;
+        width: 30px;
     }
     
 }
@@ -125,7 +118,28 @@ footer img{
     footer img{
         width: 48px;
     }
+    footer img{
+        width: 35px;
+    }
 
 }
+@media screen and (min-width: 700px) and (max-width: 2500px){
+    h1{
+        font-size: 25px;
+    }
+    div{
+        width: 60%;
+        height: 550px;
+    }
+    div a{
+        font-size: 25px;
+    }
+    div img{
+        width: 300px;
+        height: 300px;
+    }
+    div p{
+        font-size: 18px;
+    }
 
 
